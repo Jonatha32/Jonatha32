@@ -41,7 +41,7 @@ I am a developer in training with a passion for music, technology, and continuou
 ## 🚀 My Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,firebase,c,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,firebase,c,python,mysql,dart&theme=dark" />
 </div>
 
 <br>
