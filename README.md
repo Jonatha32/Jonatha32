@@ -2,7 +2,7 @@
   
   # ✨ JONATHAN PÉREZ ✨
   
-  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20Soy%20Jona&fontSize=90&animation=fadeIn)
+  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jona&fontSize=90&animation=fadeIn)
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=🎤+Singer-Songwriter;💻+Developer+in+Progress;☀️+Dreamer+from+Uruguay" alt="Typing SVG" />
@@ -25,28 +25,28 @@
 
 <br>
 
-## 🌟 Quién Soy
+## 🌟 About Me
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Soy un desarrollador en formación con pasión por la música, la tecnología y el aprendizaje continuo. Mi vida se divide entre líneas de código y líneas de canciones, buscando siempre la armonía perfecta entre ambos mundos.
+I am a developer in training with a passion for music, technology, and continuous learning. My life is divided between lines of code and lines of songs, always seeking the perfect harmony between both worlds.
 
-- 💻 Estudiante de desarrollo full-stack en [Holberton School](https://www.holbertonschool.com/)
-- 📚 Cursando Administración en FCEA (UDELAR)
-- 🎵 Compositor y cantautor en mi tiempo libre
-- 🌎 Apasionado por la tecnología, el arte y los deportes
+- 💻 Full-stack development student at [Holberton School](https://www.holbertonschool.com/)
+- 📚 Studying Administration at FCEA (UDELAR)
+- 🎵 Composer and singer-songwriter in my spare time
+- 🌎 Passionate about technology, art, and sports
 
 <br clear="right"/>
 
-## 🚀 Mi Stack Tecnológico
+## 🚀 My Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,firebase,c,python,mysql&theme=dark" />
 </div>
 
 <br>
 
-## 📊 Mis Estadísticas
+## 📊 My Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonatha32&theme=tokyonight" alt="GitHub Streak" />
@@ -57,7 +57,7 @@ Soy un desarrollador en formación con pasión por la música, la tecnología y 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatha32&layout=compact&theme=tokyonight" />
 </div>
 
-## 🧠 Actualmente Aprendiendo
+## 🧠 Currently Learning
 
 <div align="center">
   <table>
@@ -86,14 +86,22 @@ Soy un desarrollador en formación con pasión por la música, la tecnología y 
   </table>
 </div>
 
-## 🎵 Mi Vida Musical
+## 🎵 My Musical Life
 
 <div align="center">
   <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="400">
-  <p><i>Componiendo y escribiendo música casi todos los días</i></p>
+  <p><i>Composing and writing music almost every day</i></p>
+  
+  ### 🎧 Mi Actividad en Spotify
+  
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=3)
+  
+  <a href="https://open.spotify.com/user/31r6ak4edu5t2yrzj7wtzaifvcdm">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
+  </a>
 </div>
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Jonatha32/proyecto1">
@@ -106,9 +114,9 @@ Soy un desarrollador en formación con pasión por la música, la tecnología y 
 
 <div align="center">
   
-  ## Y recuerda...
+  ## And remember...
   
-  > ### *🪐 "La grandeza no es un lugar — es una decisión."*
+  > ### *🪐 "Greatness is not a place—it is a decision."*
   
   ![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
