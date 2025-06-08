@@ -92,7 +92,7 @@ I am a developer in training with a passion for music, technology, and continuou
   <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="400">
   <p><i>Composing and writing music almost every day</i></p>
   
-  ### 🎧 Mi Actividad en Spotify
+  ### 🎧 My Spotify Activity
   
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=3)
   
