@@ -35,6 +35,7 @@ I am a developer in training with a passion for music, technology, and continuou
 - 📚 Studying Administration at FCEA (UDELAR)
 - 🎵 Composer and singer-songwriter in my spare time
 - 🌎 Passionate about technology, art, and sports
+- 🦖 Dinosaur enthusiast since childhood
 
 <br clear="right"/>
 
@@ -116,6 +117,19 @@ I am a developer in training with a passion for music, technology, and continuou
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonatha32&repo=Jonatha32&theme=tokyonight" />
   </a>
   <!-- Puedes agregar más proyectos aquí cuando los tengas -->
+</div>
+
+<br>
+
+## 🌟 My Portfolios
+
+<div align="center">
+  <a href="https://tu-portfolio-profesional.com">
+    <img src="https://img.shields.io/badge/Professional_Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Professional Portfolio"/>
+  </a>
+  <a href="https://tu-portfolio-artistico.com">
+    <img src="https://img.shields.io/badge/Music_Portfolio-1DB954?style=for-the-badge&logo=applemusic&logoColor=white" alt="Music Portfolio"/>
+  </a>
 </div>
 
 <br>
