@@ -95,6 +95,14 @@ I am a developer in training with a passion for music, technology, and continuou
   ### 🎧 My Spotify Activity
   
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=3)
+
+  ### 🎵 Today's Song Recommendation
+  
+  <a href="https://open.spotify.com/playlist/6oghIlByD49KFGNmNU8GSH?si=745680f8553d4821">
+    <img src="https://img.shields.io/badge/Soft-Rock%20Greatest%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Soft Rock Greatest Hits"/>
+  </a>
+  
+  > *"Music can change the world because it can change people." — Bono*
   
   <a href="https://open.spotify.com/user/31r6ak4edu5t2yrzj7wtzaifvcdm">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
