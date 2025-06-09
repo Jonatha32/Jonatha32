@@ -5,7 +5,7 @@
   ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jona&fontSize=90&animation=fadeIn)
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=🎤+Singer-Songwriter;💻+Developer+in+Progress;☀️+Dreamer+from+Uruguay;💙❤️Visça+Barça" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=🎤+Singer-Songwriter;💻+Developer+in+Progress;☀️+Dreamer+from+Uruguay;💙❤️+Visça+Barça" alt="Typing SVG" />
   </p>
   
   <a href="mailto:jonaperez038@gmail.com">
