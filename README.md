@@ -36,6 +36,8 @@ I am a developer in training with a passion for music, technology, and continuou
 - 🎵 Composer and singer in my spare time
 - 🌎 Passionate about technology, art, and sports
 - 🦖 Dinosaur enthusiast since childhood
+- 🔥 Favorite Pokemon: Arcanine
+- 🧭 Favorite video game: Uncharted
 
 <br clear="right"/>
 
