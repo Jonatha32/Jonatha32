@@ -2,7 +2,7 @@
   
   # ✨ JONATHAN PÉREZ ✨
   
-  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=290&section=header&text=Hi,%20I'm%20Jona&fontSize=90&animation=fadeIn)
+  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jona&fontSize=90&animation=fadeIn)
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=🎤+Singer-Songwriter;💻+Developer+in+Progress;☀️+Dreamer+from+Uruguay;💙❤️+Visça+Barça" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 
 ## 🌟 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a developer in training with a passion for music, technology, and continuous learning. My life is divided between lines of code and lines of songs, always seeking the perfect harmony between both worlds.
 
