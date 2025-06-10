@@ -124,8 +124,8 @@ I am a developer in training with a passion for music, technology, and continuou
 ## 🌟 My Portfolios
 
 <div align="center">
-  <a href="https://jonatha32.github.io/portfolio-react/" target="_blank">
-    <img src="https://img.shields.io/badge/Professional_Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Professional Portfolio"/>
+  <a href="https://jonatha32.github.io/portfolio-react/">
+    <img src="https://img.shields.io/badge/Professional_Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Professional Portfolio" target="_blank"/>
   </a>
   <a href="https://tu-portfolio-artistico.com">
     <img src="https://img.shields.io/badge/Music_Portfolio-1DB954?style=for-the-badge&logo=applemusic&logoColor=white" alt="Music Portfolio"/>
