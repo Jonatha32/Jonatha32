@@ -33,7 +33,7 @@ I am a developer in training with a passion for music, technology, and continuou
 
 - 💻 Full-stack development student at [Holberton School](https://www.holbertonschool.com/)
 - 📚 Studying Administration at FCEA (UDELAR)
-- 🎵 Composer and singer-songwriter in my spare time
+- 🎵 Composer and singer in my spare time
 - 🌎 Passionate about technology, art, and sports
 - 🦖 Dinosaur enthusiast since childhood
 
