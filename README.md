@@ -112,6 +112,40 @@ I am a developer in training with a passion for music, technology, and continuou
   </a>
 </div>
 
+## ⚡ Wizarding World
+
+<div align="center">
+  <img src="https://media.giphy.com/media/eax0rh3OERAYg/giphy.gif" width="300" alt="Harry Potter Animation">
+  
+  <div style="background: linear-gradient(45deg, #740001, #ae0001, #eeba30, #d3a625, #000000, #2a623d, #1a472a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <h3 style="font-family: 'Lumos', fantasy; margin-bottom: 15px;">My Hogwarts Identity</h3>
+    
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+  <td align="center" style="background: rgba(174, 0, 1, 0.15); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://www.pngarts.com/files/11/Harry-Potter-Gryffindor-Logo-PNG-Photo.png" width="80" alt="Gryffindor Crest">
+  <p style="font-family: 'Lumos', fantasy; font-size: 18px; margin-top: 10px; color: #ae0001;"><b>House:</b></p>
+  <p style="font-family: 'Lumos', fantasy; font-size: 16px;">Gryffindor</p>
+  </td>
+  <td align="center" style="background: rgba(210, 180, 140, 0.15); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://contentful.harrypotter.com/usf1vwtuqyxm/13hGkrU9AiSvYRZ08JQYix/2568a72b432f957965609f8f5be68bdf/rounded-1401519538-TortoiseshellCat.png?q=75&fm=webp&w=310&fit=fill" width="100" alt="Tortoiseshell Cat">
+  <p style="font-family: 'Lumos', fantasy; font-size: 18px; margin-top: 10px; color: #d3a625;"><b>Patronus:</b></p>
+  <p style="font-family: 'Lumos', fantasy; font-size: 16px;">Tortoiseshell Cat</p>
+  </td>
+  <td align="center" style="background: rgba(26, 71, 42, 0.15); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://contentful.harrypotter.com/usf1vwtuqyxm/2rrKabjZJG6pIMTxHloE0F/f8939adb9fd9a33b6a1dd9220f0fa689/wand-yellow-average-rope_handle.png" width="100" alt="Wand">
+  <p style="font-family: 'Lumos', fantasy; font-size: 18px; margin-top: 10px; color: #1a472a;"><b>Wand:</b></p>
+  <p style="font-family: 'Lumos', fantasy; font-size: 16px;">Larch wood | Dragon core | 12 ½"</p>
+  </td>
+  </tr>
+</table>
+    
+<a href="https://www.harrypotter.com/profile/19db9229-4936-48d4-82d0-119d781dd210" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_My_Wizarding_Profile-740001?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFUlEQVR4nGNgGPKAmZubW4KHh+cADw/PfwY8gJeXdwIvL+9/XPL8QMX/+fn5/+MTFxAQ+A9UfACnZqBkAVDxeaAh/4WFhf8LCQn9FxQU/A+kQWIgOQYhIaH/wPAowKpZWFj4AEjxeZAhQM3/YRikGKQYZBNIHGQzVgtAJKhhcBqkGcQG0TA+TB6kFsUQmCCyRhAbRQyXC0DhDQtzGMYrDjMExYvIAF0TzCCYC9ANQXYJhgEwzSAapghmO4ZX0AMLZBgyH2YbWHFAQEABzBZkA5HFwV5A9zoowEBBAzMMZMh/tMDEHpCgaAOxQWHwH2QbRkCCFMACExgGBTBDQQEJUwxig9ggcVCgDXoAAFW4oLBoLIVAAAAAAElFTkSuQmCC"/>
+    </a>
+  </div>
+</div>
+
 ## 📌 Featured Projects
 
 <div align="center">
