@@ -97,7 +97,7 @@ I am a developer in training with a passion for music, technology, and continuou
   
   ### 🎧 My Spotify Activity
   
-  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=3)
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=4)
 
   ### 🎵 Today's Song Recommendation
   
