@@ -149,10 +149,23 @@ I am a developer in training with a passion for music, technology, and continuou
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Jonatha32/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonatha32&repo=Jonatha32&theme=tokyonight" />
-  </a>
-  <!-- Puedes agregar más proyectos aquí cuando los tengas -->
+
+  <table>
+    <tr>
+      <td align="center">        
+        <br>
+        <a href="">
+        <img src="https://github.com/Jonatha32/portfolio-react/blob/main/public/cassee.png?raw=true" width="150" height="200"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jonatha32/Arbook">
+        <img src="https://github.com/Jonatha32/Arbook/blob/main/assets/logo.png?raw=true" width="150" height="150"/>
+        </a>
+      </td>
+    </tr>
+  </table>  
+
 </div>
 
 <br>
