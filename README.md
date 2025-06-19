@@ -193,13 +193,30 @@ I am a developer in training with a passion for music, technology, and continuou
 
 <div align="center">
 
-  ### 📄 Descargá mi CV
+  ### 📄 Download my CV
 
   <a href="https://raw.githubusercontent.com/Jonatha32/portfolio-react/main/public/Jonathan%20P%C3%A9rez%20CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Gradient?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=6E56CF&color=0000ff" />
   </a>
   
-  <p style="color: #cccccc"><i>¡Explorá mi experiencia artística, académica y técnica en un solo PDF!</i></p>
+  <p style="color: #cccccc"><i>Explore my artistic, academic, and technical experience in a single PDF!</i></p>
+
+</div>
+
+## 🌐 Me in One Link
+
+<div align="center">
+  
+  
+  <h3></h3>
+
+  <a href="https://linktr.ee/jonaperez10?utm_source=linktree_profile_share&ltsid=81339b3d-a775-4b4b-af5a-4ddff035b705" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+  
+  <p><i>Music. Code. Art. Dreams. Everything lives here.</i></p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=🪐+Follow+me+on+social+media;🎤+Stream+my+music+and+covers;💻+See+my+projects+and+networks" alt="Typing SVG" />
 
 </div>
 
