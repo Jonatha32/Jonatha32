@@ -192,6 +192,19 @@ I am a developer in training with a passion for music, technology, and continuou
 <br>
 
 <div align="center">
+
+  ### 📄 Descargá mi CV
+
+  <a href="https://github.com/Jonatha32/portfolio-react/blob/main/public/Jonathan%20P%C3%A9rez%20CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-Gradient?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=6E56CF&color=0000ff" />
+  </a>
+  
+  <p style="color: #cccccc"><i>¡Explorá mi experiencia artística, académica y técnica en un solo PDF!</i></p>
+
+</div>
+
+
+<div align="center">
   
   ## And remember...
   
