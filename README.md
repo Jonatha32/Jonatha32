@@ -146,6 +146,54 @@ I am a developer in training with a passion for music, technology, and continuou
   </div>
 </div>
 
+## 🐉 Dragon Ball Universe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/N8BreB0eFUJ3Jyn3cX/giphy.gif" width="400" alt="Goku Ultra Instinct" />
+  
+  <div style="background: linear-gradient(45deg, #FF9500, #FF6B00, #4285F4, #EA4335); padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <h3 style="font-family: 'Saiyan Sans', sans-serif; margin-bottom: 15px; text-shadow: 0 0 10px #FF9500;">MY SAIYAN POWER LEVEL</h3>
+    
+  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+      <div style="background: rgba(0,0,0,0.2); border-radius: 50px; padding: 5px; width: 80%;">
+        <div style="background: linear-gradient(90deg, #FF9500, #FF6B00); width: 85%; height: 20px; border-radius: 50px; text-align: right; padding-right: 10px; color: white; font-weight: bold;">OVER 9000!</div>
+      </div>
+    </div>
+    
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 15px;">
+      <tr>
+        <td align="center" style="background: rgba(255, 107, 0, 0.2); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(255, 107, 0, 0.3); transition: transform 0.3s;">
+          <img src="https://i.pinimg.com/736x/85/f5/35/85f5352771da6cf9354705bd927ed825.jpg" width="120" alt="Goku Ultra Instinct">
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 18px; margin-top: 15px; color: #FF9500;"><b>Main Inspiration:</b></p>
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 16px; color: white;">Goku</p>
+          <p style="font-size: 14px; color: #ccc;"><i>"I am the hope of the universe!"</i></p>
+        </td>
+        <td align="center" style="background: rgba(66, 133, 244, 0.2); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(66, 133, 244, 0.3); transition: transform 0.3s;">
+          <img src="https://i.pinimg.com/736x/44/b0/7d/44b07de3f42b2ceb042cd6a80788a119.jpg" width="120" alt="Vegeta Super Saiyan Blue">
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 18px; margin-top: 15px; color: #4285F4;"><b>Coding Style:</b></p>
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 16px; color: white;">Vegeta</p>
+          <p style="font-size: 14px; color: #ccc;"><i>"I am the prince of all coders!"</i></p>
+        </td>
+        <td align="center" style="background: rgba(234, 67, 53, 0.2); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.3); transition: transform 0.3s;">
+          <img src="https://i.pinimg.com/736x/57/d6/18/57d618bdece1e1b4923a8dbb68f8b311.jpg" width="95" alt="Gohan Super Saiyan 2">
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 18px; margin-top: 15px; color: #EA4335;"><b>Hidden Potential:</b></p>
+          <p style="font-family: 'Saiyan Sans', sans-serif; font-size: 16px; color: white;">Gohan</p>
+          <p style="font-size: 14px; color: #ccc;"><i>"Unleashing my full power!"</i></p>
+        </td>
+      </tr>
+    </table>
+    
+  <div style="margin-top: 25px;">
+      <img src="https://img.shields.io/badge/Favorite_Saga-Majin_Boo_Saga-FF9500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFUlEQVR4nGNgGPKAmZubW4KHh+cADw/PfwY8gJeXdwIvL+9/XPL8QMX/+fn5/+MTFxAQ+A9UfACnZqBkAVDxeaAh/4WFhf8LCQn9FxQU/A+kQWIgOQYhIaH/wPAowKpZWFj4AEjxeZAhQM3/YRikGKQYZBNIHGQzVgtAJKhhcBqkGcQG0TA+TB6kFsUQmCCyRhAbRQyXC0DhDQtzGMYrDjMExYvIAF0TzCCYC9ANQXYJhgEwzSAapghmO4ZX0AMLZBgyH2YbWHFAQEABzBZkA5HFwV5A9zoowEBBAzMMZMh/tMDEHpCgaAOxQWHwH2QbRkCCFMACExgGBTBDQQEJUwxig9ggcVCgDXoAAFW4oLBoLIVAAAAAAElFTkSuQmCC" alt="Favorite Saga Badge"/>
+      <img src="https://img.shields.io/badge/Power_Move-Kamehameha-4285F4?style=for-the-badge" alt="Power Move Badge"/>
+    </div>
+    
+  <p style="margin-top: 20px; font-style: italic; color: #eee;">"When I code, my power level goes over 9000!"</p>
+  </div>
+  
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="300" alt="Goku Kamehameha" />
+</div>
+
 ## 📌 Featured Projects
 
 <div align="center">
