@@ -225,7 +225,6 @@ I am a developer in training with a passion for music, technology, and continuou
 
 </div>
 
-
 <div align="center">
   
   ## And remember...
