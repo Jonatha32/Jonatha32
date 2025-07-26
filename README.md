@@ -216,6 +216,11 @@ I am a developer in training with a passion for music, technology, and continuou
         <img src="https://github.com/Jonatha32/Arch/blob/main/public/images/a90f4370-8522-4e30-afb6-84c1dbeba61f.png?raw=true" width="170"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/Jonatha32/Moodia">
+        <img src="https://github.com/Jonatha32/Moodia/blob/clean-main/images/WhatsApp%20Image%202025-07-25%20at%2016.45-Photoroom%20(2).png?raw=true" width="170"/>
+        </a>
+      </td>
     </tr>
   </table>  
 
