@@ -236,7 +236,7 @@ I am a developer in training with a passion for music, technology, and continuou
       <td align="center">        
         <br>
         <a href="https://jonatha32.github.io/portfolio-react/" target="blank">
-          <img src="https://github.com/Jonatha32/portfolio-react/blob/main/public/lo.png?raw=true" width="100" height="100" alt="Professional Portfolio" target="_blank"/>
+          <img src="https://github.com/Jonatha32/portfolio-react/blob/main/public/Copia%20de%20Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" width="100" height="100" alt="Professional Portfolio" target="_blank"/>
         </a>
       </td>
       <td align="center">
