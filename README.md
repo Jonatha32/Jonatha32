@@ -236,12 +236,12 @@ I am a developer in training with a passion for music, technology, and continuou
       <td align="center">        
         <br>
         <a href="https://jonatha32.github.io/portfolio-react/" target="blank">
-          <img src="https://github.com/Jonatha32/portfolio-react/blob/main/public/Copia%20de%20Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" width="110" alt="Professional Portfolio" target="_blank"/>
+          <img src="https://github.com/Jonatha32/Freelance_Page/blob/main/public/logoo.png?raw=true" width="110" alt="Professional Portfolio" target="_blank"/>
         </a>
       </td>
       <td align="center">
         <a href="https://jonatha32.github.io/Music-page/" target="blank">
-          <img src="https://github.com/Jonatha32/portfolio-react/blob/main/public/WhatsApp%20Image%202025-05-26%20at%2011.47.13_99a7a20b-Photoroom.png?raw=true" width="112" alt="Professional Portfolio" target="_blank"/>
+          <img src="https://github.com/Jonatha32/Freelance_Page/blob/main/public/logo%20rojo.png?raw=true" width="110" alt="Professional Portfolio" target="_blank"/>
         </a>
       </td>
     </tr>
