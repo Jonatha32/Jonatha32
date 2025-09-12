@@ -31,7 +31,7 @@
 
 I am a developer in training with a passion for music, technology, and continuous learning. My life is divided between lines of code and lines of songs, always seeking the perfect harmony between both worlds.
 
-- 💻 Full-stack development student at [Holberton School](https://www.holbertonschool.com/)
+- 💻 Full-stack development student in [Holberton School](https://www.holbertonschool.com/)
 - 📚 Studying Administration at FCEA (UDELAR)
 - 🎵 Composer and singer in my spare time
 - 🌎 Passionate about technology, art, and sports
