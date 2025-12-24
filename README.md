@@ -281,11 +281,13 @@ I am a developer in training with a passion for music, technology, and continuou
   <a href="https://jonatha32.github.io/Freelance_Page/" target="_blank" align="center">
     <img src="https://img.shields.io/badge/Hire%20Me-6E56CF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Services"/>
   </a>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=💻+Web+Development;📱+Mobile+Apps;🎨+UI/UX+Design;📈+Digital+Marketing;🎵+Creative+Content" alt="Services Typing SVG" />
-  
-  <p style="color: #cccccc"><i>Let's transform your vision into digital reality</i></p>
 
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=💻+Web+Development;📱+Mobile+Apps;🎨+UI/UX+Design;📈+Digital+Marketing;🎵+Creative+Content" alt="Services Typing SVG"/>
+    
+  <p style="color: #cccccc"><i>Let's transform your vision into digital reality</i></p>
 </div>
 
 <div align="center">
