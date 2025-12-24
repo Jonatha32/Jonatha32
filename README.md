@@ -274,8 +274,6 @@ I am a developer in training with a passion for music, technology, and continuou
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Professional Development">
-  
   <h3>🚀 Ready to bring your ideas to life?</h3>
   
   <p><i>Full-stack development • Digital marketing • Creative solutions</i></p>
