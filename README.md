@@ -70,14 +70,6 @@ I am a developer in training with a passion for music, technology, and continuou
         <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="48" height="48" alt="English" />
         <br>English
       </td>
@@ -149,7 +141,7 @@ I am a developer in training with a passion for music, technology, and continuou
 ## 🐉 Dragon Ball Universe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="400" alt="Goku Kamehameha" />
+  <img src="https://media.giphy.com/media/N8BreB0eFUJ3Jyn3cX/giphy.gif" width="400" alt="Goku Kamehameha" />
   
   <div style="background: linear-gradient(45deg, #FF9500, #FF6B00, #4285F4, #EA4335); padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
     <h3 style="font-family: 'Saiyan Sans', sans-serif; margin-bottom: 15px; text-shadow: 0 0 10px #FF9500;">MY SAIYAN POWER LEVEL</h3>
@@ -191,7 +183,7 @@ I am a developer in training with a passion for music, technology, and continuou
   <p style="margin-top: 20px; font-style: italic; color: #eee;">"When I code, my power level goes over 9000!"</p>
   </div>
   
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="300" alt="Goku Kamehameha" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlpbG80MjB0ZnJsa2QyYm11YTBpcXhmMGFjYzZpZ2VxODdibGs5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8QtP5TqscKh3O/giphy.gif" width="300" alt="Goku Kamehameha" />
 </div>
 
 ## 📌 Featured Projects
