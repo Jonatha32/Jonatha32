@@ -11,7 +11,7 @@
   <a href="mailto:jonaperez038@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jonathan-perez-31a5a5165/">
+  <a href="https://www.linkedin.com/in/jonathanperez-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Jonatha88199578">
@@ -66,16 +66,16 @@ I am a developer in training with a passion for music, technology, and continuou
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-        <br>Flutter
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+        <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-        <br>Dart
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+        <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+        <br>C#
       </td>
       <td align="center" width="96">
         <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="48" height="48" alt="English" />
@@ -99,8 +99,8 @@ I am a developer in training with a passion for music, technology, and continuou
   
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31r6ak4edu5t2yrzj7wtzaifvcdm&count=4)
 
-  ### 🎵 Today's Song Recommendation
-  
+### 🎵 Today's Song Recommendation
+
   <a href="https://open.spotify.com/playlist/6oghIlByD49KFGNmNU8GSH?si=745680f8553d4821">
     <img src="https://img.shields.io/badge/Soft-Rock%20Greatest%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Soft Rock Greatest Hits"/>
   </a>
@@ -149,7 +149,7 @@ I am a developer in training with a passion for music, technology, and continuou
 ## 🐉 Dragon Ball Universe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/N8BreB0eFUJ3Jyn3cX/giphy.gif" width="400" alt="Goku Ultra Instinct" />
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="400" alt="Goku Kamehameha" />
   
   <div style="background: linear-gradient(45deg, #FF9500, #FF6B00, #4285F4, #EA4335); padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
     <h3 style="font-family: 'Saiyan Sans', sans-serif; margin-bottom: 15px; text-shadow: 0 0 10px #FF9500;">MY SAIYAN POWER LEVEL</h3>
@@ -222,7 +222,7 @@ I am a developer in training with a passion for music, technology, and continuou
         </a>
       </td>
     </tr>
-  </table>  
+  </table>
 
 </div>
 
@@ -245,14 +245,15 @@ I am a developer in training with a passion for music, technology, and continuou
         </a>
       </td>
     </tr>
-  </table>  
+  </table>
 
 <br>
 
 <div align="center">
 
-  ### 📄 Download my CV
-  <a href="https://github.com/Jonatha32/portfolio-react/blob/main/public/Jonathan%20P%C3%A9rez%20CV.pdf">
+### 📄 Download my CV
+
+  <a href="https://github.com/Jonatha32/portfolio-react/raw/main/public/Jonathan%20P%C3%A9rez%20CV.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-Gradient?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=6E56CF&color=0000ff" />
   </a>
   
