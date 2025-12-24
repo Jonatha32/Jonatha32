@@ -252,7 +252,7 @@ I am a developer in training with a passion for music, technology, and continuou
 <div align="center">
 
   ### 📄 Download my CV
-  <a href="https://raw.githubusercontent.com/Jonatha32/portfolio-react/main/public/Jonathan%20P%C3%A9rez%20CV.pdf">
+  <a href="https://github.com/Jonatha32/portfolio-react/blob/main/public/Jonathan%20P%C3%A9rez%20CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Gradient?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=6E56CF&color=0000ff" />
   </a>
   
