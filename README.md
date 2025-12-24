@@ -270,6 +270,26 @@ I am a developer in training with a passion for music, technology, and continuou
 
 </div>
 
+## 💼 Professional Services
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Professional Development">
+  
+  <h3>🚀 Ready to bring your ideas to life?</h3>
+  
+  <p><i>Full-stack development • Digital marketing • Creative solutions</i></p>
+  
+  <a href="https://jonatha32.github.io/Freelance_Page/" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-6E56CF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Services"/>
+  </a>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=💻+Web+Development;📱+Mobile+Apps;🎨+UI/UX+Design;📈+Digital+Marketing;🎵+Creative+Content" alt="Services Typing SVG" />
+  
+  <p style="color: #cccccc"><i>Let's transform your vision into digital reality</i></p>
+
+</div>
+
 <div align="center">
   
   ## And remember...
