@@ -278,7 +278,7 @@ I am a developer in training with a passion for music, technology, and continuou
   
   <p><i>Full-stack development • Digital marketing • Creative solutions</i></p>
   
-  <a href="https://jonatha32.github.io/Freelance_Page/" target="_blank" align='center'>
+  <a href="https://jonatha32.github.io/Freelance_Page/" target="_blank" align="center">
     <img src="https://img.shields.io/badge/Hire%20Me-6E56CF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Services"/>
   </a>
   
